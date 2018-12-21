@@ -1,6 +1,7 @@
 {
     "name": "azurre/psr-http-factory",
     "description": "Common interfaces for PSR-7 HTTP message factories",
+    "version": "1.0.0",
     "keywords": [
         "psr",
         "psr-7",
