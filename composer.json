@@ -1,5 +1,5 @@
 {
-    "name": "psr/http-factory",
+    "name": "azurre/psr-http-factory",
     "description": "Common interfaces for PSR-7 HTTP message factories",
     "keywords": [
         "psr",
@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=5.3",
         "psr/http-message": "^1.0"
     },
     "autoload": {
